@@ -10,11 +10,13 @@
 ###### Minha expectativa é continuar aprendendo e aplicar a programação para construir uma sociedade crescentemente democrática e com mais igualdade de acessos. 
 
 ## O que tenho feito:
-
+<div align="center">
+ 
 ![Mirna Tetzner's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mirnatetzner&show_icons=true&theme=gruvbox)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mirnatetzner)](https://github.com/mirnatetzner/github-readme-stats)
 
+</div>
 
 ## Onde me encontrar:
 
@@ -25,5 +27,6 @@
  Curiosidade, também toco nas horas vagas:
  
  [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCL8vQUJrs6P9YPqYG6PIu7g)
+ 
  
 
