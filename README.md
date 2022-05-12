@@ -1,4 +1,4 @@
-# Mirna Tetzner (ela/dela) 
+# Mirna Tetzner (ela/dela)  ( :scroll: [Currículo](https://www.canva.com/design/DAE_GyNV4AM/k34rAxYnkvyu2mI5h3869w/edit?utm_content=DAE_GyNV4AM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))
 
 ### Olá, seja bem vinda(o) ao meu perfil, aqui você poderá conhecer melhor quem eu sou no mundo da programação 
 
@@ -9,14 +9,10 @@
 
 ## Onde me encontrar:
 
-###### [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/) ||
-
-
-
- || [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mirnatetzner@gmail.com) || 
+###### [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mirnatetzner@gmail.com) [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/mirnatetzner)
  
  
- [Currículo](https://www.canva.com/design/DAE_GyNV4AM/k34rAxYnkvyu2mI5h3869w/edit?utm_content=DAE_GyNV4AM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 
 <!-- ![Js image](https://camo.githubusercontent.com/9d07c04bdd98c662d5df9d4e1cc1de8446ffeaebca330feb161f1fb8e1188204/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b) -->
 
