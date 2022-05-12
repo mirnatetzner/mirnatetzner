@@ -24,9 +24,7 @@
  
  
  
- Curiosidade, também toco nas horas vagas:
- 
- [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCL8vQUJrs6P9YPqYG6PIu7g)
+ Curiosidade, também toco nas horas vagas: [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCL8vQUJrs6P9YPqYG6PIu7g)
  
  
 
