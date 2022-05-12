@@ -11,7 +11,10 @@
 
 ## O que tenho feito:
 
-![Mirna Tetzner's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mirnatetzner&show_icons=true&theme=onedark)
+![Mirna Tetzner's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mirnatetzner&show_icons=true&theme=gruvbox)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mirnatetzner)](https://github.com/mirnatetzner/github-readme-stats)
+
 
 ## Onde me encontrar:
 
@@ -19,8 +22,8 @@
  
  
  
- Curiosidade, também toco nas horas vagas: 
+ Curiosidade, também toco nas horas vagas:
+ 
+ [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCL8vQUJrs6P9YPqYG6PIu7g)
  
 
-
-<!-- ![Js image](https://camo.githubusercontent.com/9d07c04bdd98c662d5df9d4e1cc1de8446ffeaebca330feb161f1fb8e1188204/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b) -->
