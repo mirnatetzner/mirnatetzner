@@ -1,6 +1,6 @@
-** ### Mirna Tetzner (ela/dela)**
+### ** Mirna Tetzner (ela/dela) **
 
-####Olá, seja bem vinda(o) ao meu perfil, aqui você poderá conhecer melhor quem eu sou no mundo da programação 
+#### Olá, seja bem vinda(o) ao meu perfil, aqui você poderá conhecer melhor quem eu sou no mundo da programação 
 <!--
 **mirnatetzner/mirnatetzner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
