@@ -11,7 +11,7 @@
 
 ## O que tenho feito:
 
-![Mirna Tetzner GitHub Stats](https://github-readme-stats.vercel.app/api?username=mirnatetzner&show_icons=true&theme=radical)
+![Mirna Tetzner's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mirnatetzner&show_icons=true&theme=synthwave)
 
 ## Onde me encontrar:
 
