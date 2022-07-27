@@ -1,6 +1,6 @@
 # Mirna Tetzner (ela/dela)  
 
-###### :scroll: [Currículo]([https://www.canva.com/design/DAFFqfms0y4/0gJVjuH88UOZx_aBkndzhA/view?utm_content=DAFFqfms0y4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink](https://www.canva.com/design/DAFFqfms0y4/0gJVjuH88UOZx_aBkndzhA/watch?utm_content=DAFFqfms0y4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink))
+###### :scroll: [Currículo]((https://www.canva.com/design/DAFFqfms0y4/0gJVjuH88UOZx_aBkndzhA/watch?utm_content=DAFFqfms0y4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink))
 
 ### Olá, seja bem vinda(o) ao meu perfil, aqui você poderá conhecer melhor quem eu sou no mundo da programação 
 
