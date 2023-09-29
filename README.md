@@ -1,10 +1,5 @@
 # Mirna Tetzner (ela/dela)  
 
-###### :scroll: [Currículo](https://export-download.canva.com/ms0y4/DAFFqfms0y4/437/0-31577604375.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJHKNGJLC2J7OGJ6Q%2F20220726%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220726T151741Z&X-Amz-Expires=42343&X-Amz-Signature=99c59a8af15f29b485fbe82a39c6990cd72614449f229a29da7a84e1db2a2541&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27Curr%25C3%25ADculo%2520%2528Suget%25C3%25B5es%2520Anna%2529.pdf&response-expires=Wed%2C%2027%20Jul%202022%2003%3A03%3A24%20GMT)
-
-### Olá, seja bem vinda(o) ao meu perfil, aqui você poderá conhecer melhor quem eu sou no mundo da programação 
-
-
 ###### Durante a minha graduação em Ciências Sociais eu já era uma curiosa sobre o impacto das novas tecnologias na sociedade e de como lidaríamos com antigos problemas a partir de novas ferramentas. Terminando o curso em 2020 comecei a estudar programação por conta própria, participei do curso da Escola de Dados: "Python para Inovação Cívica" e atualmente participo do Bootcamp da Resilia para formação em Desenvolvimento Web Full Stack.
 
 ###### Minha expectativa é continuar aprendendo e aplicar a programação para construir uma sociedade crescentemente democrática e com mais igualdade de acessos. 
